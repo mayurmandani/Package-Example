@@ -1,0 +1,2 @@
+# Ignore third-party libraries and dependencies
+/node_modules
