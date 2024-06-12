@@ -1,2 +1,6 @@
 # Ignore third-party libraries and dependencies
 /node_modules
+package-lock.json
+
+#Ignore the "build" directory
+/build/
